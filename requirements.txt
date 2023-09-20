@@ -1,4 +1,6 @@
 langchain
 openai
-huggingface
+tiktoken
 Streamlit
+python-dotenv
+faiss-cpu
